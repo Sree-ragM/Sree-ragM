@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # 💫 About Me:
 Here’s your polished version:
 
-🌱 I’m currently working on RNA-Seq analysis pipelines, deep learning, structure prediction, and web development
+🌱 I’m currently working on AI in Venomics, Deep learning, Proteomics, and web development
 
 👯 I’m looking to collaborate on bioinformatics projects, machine learning and deep learning research, and data analysis
 
